@@ -6,7 +6,7 @@
 ![Cloud Computing](https://img.shields.io/badge/Cloud-Computing-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Apache%202.0-green?style=for-the-badge)
 
-**A comprehensive collection of AWS cloud computing labs, assignments, and research demonstrating practical hands-on experience with cloud infrastructure, security, and monitoring.
+**A comprehensive collection of AWS cloud computing labs, assignments, and research demonstrating practical hands-on experience with cloud infrastructure, security, and monitoring.**
 
 [View Repository](https://github.com/Poorna-Chandra-D/Cloud-Computing-and-Digital-Workspce) • [Report Issue](https://github.com/Poorna-Chandra-D/Cloud-Computing-and-Digital-Workspce/issues) • [Request Feature](https://github.com/Poorna-Chandra-D/Cloud-Computing-and-Digital-Workspce/issues)
 
